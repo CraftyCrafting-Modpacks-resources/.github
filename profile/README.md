@@ -6,7 +6,9 @@
 
 <img src="https://github.com/user-attachments/assets/c2f26696-aa75-442b-9684-6bc95e88cd59" alt="logo" width="50%" height="50%">
 
-### We are a small group of developers who make stuff for minercaft
+### We are a small group of developers who make stuff for minercaft. We usually make open source modpacks but we may make resource packs or more in the future.
+
+
 
 ---
 
